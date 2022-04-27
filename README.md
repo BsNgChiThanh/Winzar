@@ -19,6 +19,8 @@ Thành công!
 
 **Cài như bình thường, cài xong copy file [rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcQdBA0Ysc9Ik8W56e2TX_kBU8BPK3NwAcOy_K-xOV7bfw?e=oyIGnE) ghi đè vào đường dẫn C:\Program Files\WinRAR**
 
+Vậy là lượm lúa!
+
 # Cài Winzar 6.00 #
 
 WinZar 6.00 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EX1Qr-DZdeBNo41ICKj7Vf8BmKtjkN5yHgingXAtGgIC_w?e=cdmjku) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERonYiEM8P9LpdmzCg1XFMABGtqCBfC70PBsYYHrj59LqQ?e=9A8w6i)
