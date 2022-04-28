@@ -17,6 +17,8 @@ Thành công!
 
 # Cài WinZar 6.10 #
 
+Download về bản [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EYe7QV8iak1As8Ixi4eAI_kBrtfmHdbCCDki7n7IHbvgbA?e=9H1RTf), [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWzfWfSuEnFMoEzWec48bS8BfoOaJaWImLvQ8YHRKR-Nlg?e=G3VUQY)
+
 **Cài như bình thường, cài xong copy file [rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcQdBA0Ysc9Ik8W56e2TX_kBU8BPK3NwAcOy_K-xOV7bfw?e=oyIGnE) ghi đè vào đường dẫn C:\Program Files\WinRAR**
 
 Vậy là lượm lúa!
