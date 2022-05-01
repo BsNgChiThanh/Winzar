@@ -13,20 +13,14 @@ WinZar 6.11 32Bit [bản Tiếng Anh](https://bsthanh-my.sharepoint.com/:u:/g/pe
 
 **Cài như bình thường, cài xong copy file [rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWbZTwhWl-1Llk9UZObaC5IBXn45DH9tlF0IAkbD-rme-Q?e=KuJaFD) ghi đè vào đường dẫn C:\Program Files\WinRAR**
 
-Thành công!
+Thành công! Vậy là lượm lúa.
 
-# Cài WinZar 6.10 #
+## Các bản khác cài tương tự như trên ##
 
-Download về bản [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EYe7QV8iak1As8Ixi4eAI_kBrtfmHdbCCDki7n7IHbvgbA?e=9H1RTf), [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWzfWfSuEnFMoEzWec48bS8BfoOaJaWImLvQ8YHRKR-Nlg?e=G3VUQY)
+# WinZar 6.10 #
 
-**Cài như bình thường, cài xong copy file [rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcQdBA0Ysc9Ik8W56e2TX_kBU8BPK3NwAcOy_K-xOV7bfw?e=oyIGnE) ghi đè vào đường dẫn C:\Program Files\WinRAR**
+WinZar 6.10 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EYe7QV8iak1As8Ixi4eAI_kBrtfmHdbCCDki7n7IHbvgbA?e=9H1RTf) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWzfWfSuEnFMoEzWec48bS8BfoOaJaWImLvQ8YHRKR-Nlg?e=G3VUQY), file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcQdBA0Ysc9Ik8W56e2TX_kBU8BPK3NwAcOy_K-xOV7bfw?e=oyIGnE)**
 
-Vậy là lượm lúa!
+# Winzar 6.00 #
 
-# Cài Winzar 6.00 #
-
-WinZar 6.00 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EX1Qr-DZdeBNo41ICKj7Vf8BmKtjkN5yHgingXAtGgIC_w?e=cdmjku) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERonYiEM8P9LpdmzCg1XFMABGtqCBfC70PBsYYHrj59LqQ?e=9A8w6i)
-
-**Cài như bình thường, cài xong copy file [rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EQbnPJG2yiNKnLKrOkmRWHkBbpQ8cH-PAzQJ02lW7UhjZA?e=4mLaWy) ghi đè vào đường dẫn C:\Program Files\WinRAR**
-
-Thành công!
+WinZar 6.00 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EX1Qr-DZdeBNo41ICKj7Vf8BmKtjkN5yHgingXAtGgIC_w?e=cdmjku) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERonYiEM8P9LpdmzCg1XFMABGtqCBfC70PBsYYHrj59LqQ?e=9A8w6i), file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EQbnPJG2yiNKnLKrOkmRWHkBbpQ8cH-PAzQJ02lW7UhjZA?e=4mLaWy)**
