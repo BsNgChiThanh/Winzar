@@ -3,6 +3,30 @@ Winzar giải nén, [vào đây để tải về](https://pwht-my.sharepoint.com
 
 [Trang chủ Winzar](https://www.rarlab.com/download.htm)
 
+# TẠO KEY WINZAR (RARREG.KEY) VỚI TÊN TỰ THÍCH CHO CÁC PHIEN BẢN TỪ 6.11 TRỞ XUỐNG #
+
+Download KeyFileMaker_showme tôi đã tải lên file đính kèm phía trên, hoặc **[bấm bào đây để tải](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EXz7Tu4CmSpAh3evttUrKiIBJwmyX0TCtn20Cd-DdIwHQw?e=IkWeDZ)**
+
+Mở file vừa tải lên để tiến hành, password để tiến hành là **showme**
+
+![1](https://user-images.githubusercontent.com/82578024/166178117-24291bc5-151a-4327-9260-1d51af38f8b7.png)
+
+Nhập **Name**, Chọn **Type** sau đó chọn **Save Lincese**
+
+![2](https://user-images.githubusercontent.com/82578024/166178132-a78afd3c-1015-4ae3-ba0c-4fed75696b2d.png)
+
+![3](https://user-images.githubusercontent.com/82578024/166178152-4228a041-4c87-4eb9-a6c5-c76fbe0bcca1.png)
+
+Chọn vị trí **save** và bấm **Save**
+
+![4](https://user-images.githubusercontent.com/82578024/166178162-f803699b-3726-4299-b982-4a7518a7ec39.png)
+
+Bấm **Yes** ta sẽ có file rareg.key copy vào thư mục **C:\Program Files\WinRAR**
+
+`Mở Winzar lên và chọn đường dẫn: Help\About Winzar sẽ thấy kết quả mỹ mãn.`
+
+![5](https://user-images.githubusercontent.com/82578024/166178173-f922a92a-a303-4c08-aba4-b2e11e657a1b.png)
+
 # Cài WinZar 6.11 #
 
 Download các bản phù hợp với bạn:
