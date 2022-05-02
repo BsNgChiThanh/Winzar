@@ -35,7 +35,7 @@ WnZar 6.11 64Bit [bản Tiếng Anh](https://bsthanh-my.sharepoint.com/:u:/g/per
 
 WinZar 6.11 32Bit [bản Tiếng Anh](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/Ecwbof8X0o1BkHZFZwrD_k8BY-5yX0okCHuB5roqLC_avg?e=sF7dNn) hoặc [bản Tiếng Việt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUWLcPs3PBRMpP5U5OoZXMkB_IYwKFXEewyJxljDfcvw6w?e=2Fp2JG)
 
-**Cài như bình thường, cài xong copy file [rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWbZTwhWl-1Llk9UZObaC5IBXn45DH9tlF0IAkbD-rme-Q?e=KuJaFD) ghi đè vào đường dẫn C:\Program Files\WinRAR**, hoặc tự tạo cho mình một file rarreg.key theo hướng dẫn ở trên, rồi copy vào thư mục này!
+Cài như bình thường, cài xong copy file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWbZTwhWl-1Llk9UZObaC5IBXn45DH9tlF0IAkbD-rme-Q?e=KuJaFD)** ghi đè vào đường dẫn **C:\Program Files\WinRAR**, hoặc tự tạo cho mình một file **rarreg.key** theo hướng dẫn ở trên, rồi copy vào thư mục này!
 
 Thành công! Vậy là lượm lúa.
 
