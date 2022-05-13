@@ -48,3 +48,35 @@ WinZar 6.10 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_
 # Winzar 6.00 #
 
 WinZar 6.00 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EX1Qr-DZdeBNo41ICKj7Vf8BmKtjkN5yHgingXAtGgIC_w?e=cdmjku) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERonYiEM8P9LpdmzCg1XFMABGtqCBfC70PBsYYHrj59LqQ?e=9A8w6i), file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EQbnPJG2yiNKnLKrOkmRWHkBbpQ8cH-PAzQJ02lW7UhjZA?e=4mLaWy)**
+
+# HƯỚNG DẪN SỬ DỤNG: #
+
+Ví dụ Nén thư mục **Toán**, click trỏ vào thư mục này chọn **Add to archive…**
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168199688-ca9d1a90-419b-4c89-9b9c-315bc6f280d4.jpg)
+
+Chọn đuôi nén phù hợp với mục đích: .RAR, .ZIP hoặc .RAR4
+
+Giả sử tôi chọn .ZIP và có password
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168199870-9736a511-f85d-4894-bd74-d8c5877e34bd.jpg)
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168199980-42d9b41e-dd2f-41b7-9b07-37d1b70ed85c.jpg)
+
+Password của tôi là 123123@
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168200086-9fe9c4bd-54f7-470b-b709-d243ca0e3cc7.jpg)
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168200554-23ae5f52-4580-4376-8754-28af8dbf21b0.jpg)
+
+**Thường thì mật khẩu tôi nén những mật khẩu ấn định để dễ nhớ, còn bạn nào hay quên thì để mật khẩu vào tên file bằng cách chỉnh lại như sau:**
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168201596-cef359a8-a4b9-4b61-b5f4-395c1d19c5b5.jpg)
+
+**Giải nén: Click chuột phải vào file cần giải nén bấm chọn: Extract to “Toán_123123@\”**
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168201698-777db38c-19d5-403e-a972-9e7f103d026e.jpg)
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168201754-4c214e09-6175-4626-b1d3-85e1acacf468.jpg)
+
+**Nhập Password vào và nhấn OK là xong!**
