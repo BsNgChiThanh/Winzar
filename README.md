@@ -131,6 +131,10 @@ Password của tôi là 123123@
 
 Nếu bạn muốn nén thôi, không cần password thì bỏ qua bước **Set password...**
 
+Hoặc nén nhanh thành file .RAR không cần password chúng ta click chuột phải vào và chọn: **add to “Toán.rar”** là **OK**
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168220329-9e049499-45c2-4e69-8889-75e90c501f4d.jpg)
+
 **Giải nén: Click chuột phải vào file cần giải nén bấm chọn: Extract to “Toán_123123@\”**
 
 ![Picture1](https://user-images.githubusercontent.com/82578024/168201698-777db38c-19d5-403e-a972-9e7f103d026e.jpg)
