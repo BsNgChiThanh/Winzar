@@ -21,7 +21,63 @@ Chọn vị trí **save** và bấm **Save**
 
 ![4](https://user-images.githubusercontent.com/82578024/166178162-f803699b-3726-4299-b982-4a7518a7ec39.png)
 
-Bấm **Yes** ta sẽ có file rarreg.key copy vào thư mục **C:\Program Files\WinRAR**
+Bấm **Yes** ta sẽ có file rarreg.key 
+
+Hoặc bạn có thể dùng **Notepad** để tạo:
+
+Copy đoạn mã sau vào **Notepad**
+
+```php
+RAR registration data
+BsNguyenChiThanh BVDK Dam Doi
+Local Site License
+UID=f8d6caf7bae3b2f4e7a4
+6412212250e7a4fec00924087b8aec51da0a9eeebf16d85155b021
+0d0f11447e1f31cb576160694c88f20734f7fa6ad968865654a57b
+0f0edf295d607ce6fa6d6b3667401b413bdcbccca3152c8ab6abc5
+931818a35674a26f065261f8bce32dfbce6039dfef9ab4633986ce
+a8d07ec209eafe31ff2fe7842dd9fa00fd0ced5a1978cb14aa6da2
+62dfb923e03b5b6d3dbf6ae03928e42be5df232be09ca66860393d
+54c6a57ddb662a13e91fd4834f599835f963c11fe9970741660323
+```
+
+Bạn chỉ có thể thay đổi dòng 2 theo ý muốn tức "BsNguyenChiThanh BVDK Dam Doi" thành "ABC XYZ"
+
+Dòng 3: "Local Site License" bạn chỉ có thể lựa chọn một trong 3 dòng sau đây:
+
+```php
+Single PC usage license
+```
+
+Hoặc:
+
+```php
+100 PC usage license
+```
+
+Hoặc
+
+```php
+Local Site License
+```
+
+Các dòng khác giữ nguyên, sau đó bấm **Save as** với tên là **rarreg.key**
+
+Xem ảnh:
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168204515-4a7f3996-4d38-46ac-8a4a-728979d8bff6.jpg)
+
+![Screenshot 2022-05-13 101819](https://user-images.githubusercontent.com/82578024/168206392-21ca6125-25cd-4fbc-b922-ffef5ffbaafc.gif)
+
+![Picture1](https://user-images.githubusercontent.com/82578024/168204785-fe7101bd-c3bf-4063-b631-0faed5ecd05d.jpg)
+
+![Screenshot 2022-05-13 101819](https://user-images.githubusercontent.com/82578024/168204933-ac302a73-730c-4aa2-8304-5781670beb33.gif)
+
+![Screenshot 2022-05-13 101819](https://user-images.githubusercontent.com/82578024/168205117-f1841c70-2b1e-460d-be08-93ce71dac765.gif)
+
+Thành công!
+
+Copy File rarreg.key vào thư mục **C:\Program Files\WinRAR**
 
 `Mở Winzar lên và chọn đường dẫn: Help\About Winzar sẽ thấy kết quả mỹ mãn.`
 
