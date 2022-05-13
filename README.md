@@ -29,8 +29,8 @@ Copy đoạn mã sau vào **Notepad**
 
 ```php
 RAR registration data
-BsNguyenChiThanh BVDK Dam Doi
-Local Site License
+BsNguyenChiThanh DamDoi Hospital
+100 PC usage license
 UID=f8d6caf7bae3b2f4e7a4
 6412212250e7a4fec00924087b8aec51da0a9eeebf16d85155b021
 0d0f11447e1f31cb576160694c88f20734f7fa6ad968865654a57b
@@ -41,9 +41,9 @@ a8d07ec209eafe31ff2fe7842dd9fa00fd0ced5a1978cb14aa6da2
 54c6a57ddb662a13e91fd4834f599835f963c11fe9970741660323
 ```
 
-Bạn chỉ có thể thay đổi dòng 2 theo ý muốn tức "BsNguyenChiThanh BVDK Dam Doi" thành "ABC XYZ"
+Bạn chỉ có thể thay đổi dòng 2 theo ý muốn tức "BsNguyenChiThanh DamDoi Hospital" thành "ABC XYZ"
 
-Dòng 3: "Local Site License" bạn chỉ có thể lựa chọn một trong 3 dòng sau đây:
+Dòng 3: "100 PC usage license" bạn chỉ có thể lựa chọn một trong 3 dòng sau đây:
 
 ```php
 Single PC usage license
