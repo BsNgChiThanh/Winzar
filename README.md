@@ -129,6 +129,8 @@ Password của tôi là 123123@
 
 ![Picture1](https://user-images.githubusercontent.com/82578024/168201596-cef359a8-a4b9-4b61-b5f4-395c1d19c5b5.jpg)
 
+Nếu bạn muốn nén thôi, không cần password thì bỏ qua bước **Set password...**
+
 **Giải nén: Click chuột phải vào file cần giải nén bấm chọn: Extract to “Toán_123123@\”**
 
 ![Picture1](https://user-images.githubusercontent.com/82578024/168201698-777db38c-19d5-403e-a972-9e7f103d026e.jpg)
