@@ -83,6 +83,10 @@ Copy File rarreg.key vào thư mục **C:\Program Files\WinRAR**
 
 ![5](https://user-images.githubusercontent.com/82578024/166178173-f922a92a-a303-4c08-aba4-b2e11e657a1b.png)
 
+**Xem Video!**
+
+https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-ac10-8140462f168d.mp4
+
 # Cài WinZar 6.11 #
 
 Download các bản phù hợp với bạn:
