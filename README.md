@@ -1,11 +1,11 @@
 # Winzar
-Winzar giải nén, [vào đây để tải về](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EirkZKfXm_pBvMO7YvSYhJgBgBqk1XzCXDxSx9EoQWVbPA?e=HEPGcc) hoặc [vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/ElggbKKgDTpAhqP0AwsfeaUBzN9-57JDrDiMd7QNxx6qNg?e=HWUEDw)
+Winzar giải nén, [vào đây để tải về](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/ElggbKKgDTpAhqP0AwsfeaUBzN9-57JDrDiMd7QNxx6qNg?e=SxQh6S)
 
 [Trang chủ Winzar](https://www.rarlab.com/download.htm)
 
 ### TẠO KEY WINZAR (RARREG.KEY) VỚI TÊN TỰ THÍCH CHO CÁC PHIEN BẢN TỪ 6.11 TRỞ XUỐNG ###
 
-Download KeyFileMaker_showme tôi đã tải lên file đính kèm phía trên, hoặc **[bấm bào đây để tải](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EXz7Tu4CmSpAh3evttUrKiIBJwmyX0TCtn20Cd-DdIwHQw?e=IkWeDZ)**
+Download KeyFileMaker_showme tôi đã tải lên file đính kèm phía trên, hoặc **[bấm bào đây để tải](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERxWBmUOuu5Ou8NVnDNksDUB8E7Jf9jr2agQYB4u4tXxpg?e=0Ve0Wa)**
 
 Mở file vừa tải lên để tiến hành, password là **showme**
 
