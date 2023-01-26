@@ -87,6 +87,39 @@ Copy File rarreg.key vào thư mục **C:\Program Files\WinRAR**
 
 https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-ac10-8140462f168d.mp4
 
+# HƯỚNG DẪN NÉN VÀ GIẢI NÉN #
+
+- WinZar có thể nén được 3 loại đuôi: 
+    1. *.RAR 
+    2. *.RAR4
+    3. *.ZIP
+ - Bấm chuột phải vào thư mục hoặc tẹp cần nén.
+ - Chọn **Add to archive...
+ - Một cửa sổ hiện lên bạn có thể click chọn đúng đuôi mình cần nén. 
+ 
+![image](https://user-images.githubusercontent.com/82578024/214792266-662733f4-5cc0-4bce-a249-a1adfe59c89f.png)
+![image](https://user-images.githubusercontent.com/82578024/214793083-ea3df1f4-0a53-4315-9e25-4dab1372aaf9.png)
+![image](https://user-images.githubusercontent.com/82578024/214793169-24f779af-5992-432c-890d-ad8383063b85.png)
+
+  - Nếu bạn cần nén có PassWord thì bấm vào **Set Password...**, nếu không thì bỏ qua bước này!
+
+![image](https://user-images.githubusercontent.com/82578024/214793453-868e949d-91a2-458e-84e0-1d0c89328c20.png)
+
+  - Cuối cùng bạn bấm **OK** là xong!
+  
+![image](https://user-images.githubusercontent.com/82578024/214793788-d2b03e37-a32e-4a3a-9916-b2cf40999312.png)
+
+**Giải nén rất đơn giản:**
+  - Bạn bấn chuột phải vào file nén cần giải nén.
+  - Khuyên nên chọn dòng **Extract to "XXX\"
+  
+![image](https://user-images.githubusercontent.com/82578024/214795085-b438f8b0-6dd9-47ac-bf1b-b838827582af.png)
+
+  - Nếu file nén có PassWord thì chúng yêu cầu nhập PassWord!
+  - Điền PassWord rồi bấm **OK**
+  
+![image](https://user-images.githubusercontent.com/82578024/214795725-3e262e1b-736b-457f-8a90-7d1f2fb0e908.png)
+
 # [WINZAR 6.21 BETA](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Euw68WTzF2VKh-pK2vnUcsABW5OoJQPcNFlh0xIVz3Px0A?e=ApvnRH) #
 
 # [WINZAR 6.20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqRbw38spgFLiaS_F773fVsBCxC3tMOlm8h4rLK0kjevgg?e=TwWE36) #
