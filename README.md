@@ -94,14 +94,14 @@ https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-
     2. *.RAR4
     3. *.ZIP
  - Bấm chuột phải vào thư mục hoặc tẹp cần nén.
- - Chọn **Add to archive...
+ - Chọn **Add to archive...**
  - Một cửa sổ hiện lên bạn có thể click chọn đúng đuôi mình cần nén. 
  
 ![image](https://user-images.githubusercontent.com/82578024/214792266-662733f4-5cc0-4bce-a249-a1adfe59c89f.png)
 ![image](https://user-images.githubusercontent.com/82578024/214793083-ea3df1f4-0a53-4315-9e25-4dab1372aaf9.png)
 ![image](https://user-images.githubusercontent.com/82578024/214793169-24f779af-5992-432c-890d-ad8383063b85.png)
 
-  - Nếu bạn cần nén có PassWord thì bấm vào **Set Password...**, nếu không thì bỏ qua bước này!
+  - Nếu bạn cần nén có PassWord thì bấm vào **Set password...**, nếu không thì bỏ qua bước này!
 
 ![image](https://user-images.githubusercontent.com/82578024/214793453-868e949d-91a2-458e-84e0-1d0c89328c20.png)
 
@@ -111,7 +111,7 @@ https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-
 
 **Giải nén rất đơn giản:**
   - Bạn bấn chuột phải vào file nén cần giải nén.
-  - Khuyên nên chọn dòng **Extract to "XXX\"
+  - Khuyên nên chọn dòng **Extract to "XXX\"**
   
 ![image](https://user-images.githubusercontent.com/82578024/214795085-b438f8b0-6dd9-47ac-bf1b-b838827582af.png)
 
