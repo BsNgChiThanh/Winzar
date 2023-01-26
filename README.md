@@ -87,6 +87,10 @@ Copy File rarreg.key vào thư mục **C:\Program Files\WinRAR**
 
 https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-ac10-8140462f168d.mp4
 
+# [WINZAR 6.21 BETA](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Euw68WTzF2VKh-pK2vnUcsABW5OoJQPcNFlh0xIVz3Px0A?e=ApvnRH)#
+
+# [WINZAR 6.20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqRbw38spgFLiaS_F773fVsBCxC3tMOlm8h4rLK0kjevgg?e=TwWE36) #
+
 # Cài WinZar 6.11 #
 
 Download các bản phù hợp với bạn:
