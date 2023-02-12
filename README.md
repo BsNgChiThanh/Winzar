@@ -1,11 +1,11 @@
 # Winzar
-Winzar giải nén, [vào đây để tải về](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/ElggbKKgDTpAhqP0AwsfeaUBzN9-57JDrDiMd7QNxx6qNg?e=SxQh6S)
+Winzar giải nén, [vào đây để tải về](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ElggbKKgDTpAhqP0AwsfeaUBzN9-57JDrDiMd7QNxx6qNg?e=SxQh6S)
 
 [Trang chủ Winzar](https://www.rarlab.com/download.htm)
 
 ### TẠO KEY WINZAR (RARREG.KEY) VỚI TÊN TỰ THÍCH CHO CÁC PHIEN BẢN TỪ 6.11 TRỞ XUỐNG ###
 
-Download KeyFileMaker_showme tôi đã tải lên file đính kèm phía trên, hoặc **[bấm bào đây để tải](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERxWBmUOuu5Ou8NVnDNksDUB8E7Jf9jr2agQYB4u4tXxpg?e=0Ve0Wa)**
+Download KeyFileMaker_showme tôi đã tải lên file đính kèm phía trên, hoặc **[bấm bào đây để tải](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ERxWBmUOuu5Ou8NVnDNksDUB8E7Jf9jr2agQYB4u4tXxpg?e=0Ve0Wa)**
 
 Mở file vừa tải lên để tiến hành, password là **showme**
 
@@ -120,19 +120,19 @@ https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-
   
 ![image](https://user-images.githubusercontent.com/82578024/214795725-3e262e1b-736b-457f-8a90-7d1f2fb0e908.png)
 
-# [WINZAR 6.21 BETA](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Euw68WTzF2VKh-pK2vnUcsABW5OoJQPcNFlh0xIVz3Px0A?e=ApvnRH) #
+# [WINZAR 6.21 BETA](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Euw68WTzF2VKh-pK2vnUcsABW5OoJQPcNFlh0xIVz3Px0A?e=ApvnRH) #
 
-# [WINZAR 6.20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqRbw38spgFLiaS_F773fVsBCxC3tMOlm8h4rLK0kjevgg?e=TwWE36) #
+# [WINZAR 6.20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EqRbw38spgFLiaS_F773fVsBCxC3tMOlm8h4rLK0kjevgg?e=TwWE36) #
 
 # Cài WinZar 6.11 #
 
 Download các bản phù hợp với bạn:
 
-WnZar 6.11 64Bit [bản Tiếng Anh](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWWuhyFJl2xHnU1qtp24U1gBFtk_mmiVxn_oU8GKVeekww?e=YVzBMT) hoặc [bản Tiếng Việt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EYc44EyY00RIlYf3xWWViAoBFA8h6AkbVWx3SZYazuRFPA?e=tOuGmx)
+WnZar 6.11 64Bit [bản Tiếng Anh](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWWuhyFJl2xHnU1qtp24U1gBFtk_mmiVxn_oU8GKVeekww?e=YVzBMT) hoặc [bản Tiếng Việt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYc44EyY00RIlYf3xWWViAoBFA8h6AkbVWx3SZYazuRFPA?e=tOuGmx)
 
-WinZar 6.11 32Bit [bản Tiếng Anh](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/Ecwbof8X0o1BkHZFZwrD_k8BY-5yX0okCHuB5roqLC_avg?e=sF7dNn) hoặc [bản Tiếng Việt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUWLcPs3PBRMpP5U5OoZXMkB_IYwKFXEewyJxljDfcvw6w?e=2Fp2JG)
+WinZar 6.11 32Bit [bản Tiếng Anh](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ecwbof8X0o1BkHZFZwrD_k8BY-5yX0okCHuB5roqLC_avg?e=sF7dNn) hoặc [bản Tiếng Việt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUWLcPs3PBRMpP5U5OoZXMkB_IYwKFXEewyJxljDfcvw6w?e=2Fp2JG)
 
-Cài như bình thường, cài xong copy file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWbZTwhWl-1Llk9UZObaC5IBXn45DH9tlF0IAkbD-rme-Q?e=KuJaFD)** ghi đè vào đường dẫn **C:\Program Files\WinRAR**, hoặc tự tạo cho mình một file **rarreg.key** theo hướng dẫn ở trên, rồi copy vào thư mục này!
+Cài như bình thường, cài xong copy file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWbZTwhWl-1Llk9UZObaC5IBXn45DH9tlF0IAkbD-rme-Q?e=KuJaFD)** ghi đè vào đường dẫn **C:\Program Files\WinRAR**, hoặc tự tạo cho mình một file **rarreg.key** theo hướng dẫn ở trên, rồi copy vào thư mục này!
 
 Thành công! Vậy là lượm lúa.
 
@@ -140,11 +140,11 @@ Thành công! Vậy là lượm lúa.
 
 # WinZar 6.10 #
 
-WinZar 6.10 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EYe7QV8iak1As8Ixi4eAI_kBrtfmHdbCCDki7n7IHbvgbA?e=9H1RTf) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EWzfWfSuEnFMoEzWec48bS8BfoOaJaWImLvQ8YHRKR-Nlg?e=G3VUQY), file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcQdBA0Ysc9Ik8W56e2TX_kBU8BPK3NwAcOy_K-xOV7bfw?e=oyIGnE)**
+WinZar 6.10 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYe7QV8iak1As8Ixi4eAI_kBrtfmHdbCCDki7n7IHbvgbA?e=9H1RTf) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWzfWfSuEnFMoEzWec48bS8BfoOaJaWImLvQ8YHRKR-Nlg?e=G3VUQY), file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EcQdBA0Ysc9Ik8W56e2TX_kBU8BPK3NwAcOy_K-xOV7bfw?e=oyIGnE)**
 
 # Winzar 6.00 #
 
-WinZar 6.00 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EX1Qr-DZdeBNo41ICKj7Vf8BmKtjkN5yHgingXAtGgIC_w?e=cdmjku) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERonYiEM8P9LpdmzCg1XFMABGtqCBfC70PBsYYHrj59LqQ?e=9A8w6i), file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EQbnPJG2yiNKnLKrOkmRWHkBbpQ8cH-PAzQJ02lW7UhjZA?e=4mLaWy)**
+WinZar 6.00 [64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EX1Qr-DZdeBNo41ICKj7Vf8BmKtjkN5yHgingXAtGgIC_w?e=cdmjku) hoặc [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ERonYiEM8P9LpdmzCg1XFMABGtqCBfC70PBsYYHrj59LqQ?e=9A8w6i), file **[rarreg.key](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQbnPJG2yiNKnLKrOkmRWHkBbpQ8cH-PAzQJ02lW7UhjZA?e=4mLaWy)**
 
 # HƯỚNG DẪN SỬ DỤNG: #
 
