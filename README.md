@@ -120,6 +120,35 @@ https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-
   
 ![image](https://user-images.githubusercontent.com/82578024/214795725-3e262e1b-736b-457f-8a90-7d1f2fb0e908.png)
 
+## CHIA NHỎ FILE NÉN RAR ##
+
+- Bấm chuột phải tại file cần nén và chia nhỏ
+- Tại ô Archive name: điền tên file cần chia nhỏ.
+- Tại ô Archive format: chọn đuôi file sau khi chia nhỏ là RAR hay zip, thông thường chọn rar.
+- Tại ô Split to volumes, size: chọn dung lượng cho mỗi file sau khi chia nhỏ.
+- Chọn OK.
+
+  ![image](https://user-images.githubusercontent.com/82578024/230844413-85aa9fd5-a961-41eb-ae62-3a0e12044437.png)
+  ![image](https://user-images.githubusercontent.com/82578024/230845153-681bd8e5-8b83-45d3-9105-d1a8a70ae722.png)
+
+  Bấm OK là nó sẽ nén và chia nhỏ, mỗi phần có kích thước 1,7 GB
+  
+## NỐI FILE RAR ĐÃ CHIA NHỎ ##
+
+- Trong bài viết này mình có file rar bị chia nhỏ thành 5 part và mình sẽ nối file rar đó lại để cài đặt, bạn hãy cho chúng vào một thư mục riêng.
+
+  ![image](https://user-images.githubusercontent.com/82578024/230846120-90813eee-731a-47b6-b481-996e738218aa.png)
+
+- Kích chuột phải vào một file rar bất kỳ bà chọn Extract to FoxitPhantomPDF832_enu_Setup_S
+
+  ![image](https://user-images.githubusercontent.com/82578024/230846264-c89a7ff0-7cdc-4db4-ac9a-c2b6f7f08656.png)
+
+- Winrar sẽ bắt đầu tiến hành nối các file rar đó lại thành một folder chưa file cần cài đặt.
+
+  ![image](https://user-images.githubusercontent.com/82578024/230846463-bbfed77f-92c8-4304-a6b2-ea6973fdb0c0.png)
+
+- OK!
+
 # [WINZAR 6.21 BETA](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Euw68WTzF2VKh-pK2vnUcsABW5OoJQPcNFlh0xIVz3Px0A?e=ApvnRH) #
 
 # [WINZAR 6.20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EqRbw38spgFLiaS_F773fVsBCxC3tMOlm8h4rLK0kjevgg?e=TwWE36) #
