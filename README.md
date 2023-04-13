@@ -1,4 +1,9 @@
 # Winzar
+
+Tác giả: Nguyễn Chí Thành
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231745758-f7c66221-64cb-4f71-b0c0-7583b643ae3b.jpg)
+
 Winzar giải nén, [vào đây để tải về](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ElggbKKgDTpAhqP0AwsfeaUBzN9-57JDrDiMd7QNxx6qNg?e=SxQh6S)
 
 [Trang chủ Winzar](https://www.rarlab.com/download.htm)
