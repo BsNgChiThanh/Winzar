@@ -8,7 +8,7 @@ Winzar giải nén, [vào đây để tải về](https://bsthanh-my.sharepoint.
 
 [Trang chủ Winzar](https://www.rarlab.com/download.htm)
 
-### TẠO KEY WINZAR (RARREG.KEY) VỚI TÊN TỰ THÍCH CHO CÁC PHIEN BẢN TỪ 6.11 TRỞ XUỐNG ###
+### TẠO KEY WINZAR (RARREG.KEY) VỚI TÊN TỰ THÍCH CHO CÁC PHIEN BẢN TỪ 6.21 TRỞ XUỐNG ###
 
 Download KeyFileMaker_showme tôi đã tải lên file đính kèm phía trên, hoặc **[bấm bào đây để tải](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ERxWBmUOuu5Ou8NVnDNksDUB8E7Jf9jr2agQYB4u4tXxpg?e=0Ve0Wa)**
 
