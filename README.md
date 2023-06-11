@@ -154,6 +154,8 @@ https://user-images.githubusercontent.com/82578024/204699401-4ee2b06d-7e3a-462d-
 
 - OK!
 
+# [WINZAR 6.22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EsSXVdigLktBpU5Pu1j7vr0B4CKoSNOZr_wrOrasG4nnhQ?e=tmVNL9)
+
 # [WINZAR 6.21](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtG0JNgbRsNNtnglbk3z3j8BhR9f1lgcFD88237Gz5MujQ?e=CdYAbO) #
 
 # [WINZAR 6.20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EqRbw38spgFLiaS_F773fVsBCxC3tMOlm8h4rLK0kjevgg?e=TwWE36) #
